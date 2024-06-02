@@ -1,0 +1,92 @@
+@font-face {
+  font-family: icomoon;
+  src: url(icomoon.eot?3d5ofa);
+  src: url(icomoon.eot?3d5ofa#iefix) format("embedded-opentype"),
+    url(icomoon.ttf?3d5ofa) format("truetype"),
+    url(icomoon.woff?3d5ofa) format("woff"),
+    url(icomoon.svg?3d5ofa#icomoon) format("svg");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+
+[class*=" pethund_"],
+[class^="pethund_"] {
+  font-family: icomoon !important;
+  speak: never;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pethund_adoption:before {
+  content: "\e900";
+}
+
+.pethund_call:before {
+  content: "\e901";
+}
+
+.pethund_experts:before {
+  content: "\e902";
+}
+
+.pethund_natural_product:before {
+  content: "\e903";
+}
+
+.pethund_pet_awards:before {
+  content: "\e904";
+}
+
+.pethund_pet_belt:before {
+  content: "\e905";
+}
+
+.pethund_pet_care:before {
+  content: "\e906";
+}
+
+.pethund_pet_food:before {
+  content: "\e907";
+}
+
+.pethund_pet_grooming:before {
+  content: "\e908";
+}
+
+.pethund_pet_professional:before {
+  content: "\e909";
+}
+
+.pethund_pet_salon:before {
+  content: "\e90a";
+}
+
+.pethund_petsitting:before {
+  content: "\e90b";
+}
+
+.pethund_quotes:before {
+  content: "\e90c";
+}
+
+.pethund_repeat_grid:before {
+  content: "\e90d";
+}
+
+.pethund_user_star:before {
+  content: "\e90e";
+}
+
+.pethund_vaccinated:before {
+  content: "\e90f";
+}
+
+.pethund_videoPlay:before {
+  content: "\e910";
+}
